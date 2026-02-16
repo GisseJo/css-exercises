@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.aburrido,
+.divertido {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.aburrido {
+    background-color: #191818;
+    color: rgb(230, 230, 230);
+}
+
+.divertido {
+    background-color: #e6e60b;
+}
